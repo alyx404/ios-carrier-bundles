@@ -49,7 +49,7 @@ jobs:
         run: |
           mkdir -p /${RUNNER_TEMP}/ipsw
           cd /${RUNNER_TEMP}/ipsw
-          ipsw download appledb --beta --device $DEVICE --latest --no-color --output /${RUNNER_TEMP}/ipsw
+          ipsw download appledb --os ios --beta --device $DEVICE --latest --no-color --output /${RUNNER_TEMP}/ipsw
       
       - name: Extract Carrier Bundles From IPSW
         run: |
