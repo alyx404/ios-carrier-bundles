@@ -1,23 +1,23 @@
 
-# iOS 26.4 Carrier Bundles
+# iOS 26.5 Carrier Bundles
 
-This repo contains the Carrier Bundles currently bundled with iOS version 26.4 for the iPhone Air.
+This repo contains the Carrier Bundles currently bundled with iOS version 26.5 for the iPhone 17 Pro Max.
 ## Last Extraction Metadata
 
 #### Last Extraction Time
-`2026-03-24 19:33:51 UTC`
+`2026-04-22 03:16:43 UTC`
 
 #### iOS Build Info
 
 | iOS Version | iOS Build | iOS Build Timestamp |
 | :-------- | :------- | :------------------ |
-| 26.4 | 23E246 | 25 Feb 2026 05:58:44 UTC |
+| 26.5 | 23F5059e | 11 Apr 2026 16:06:05 UTC |
 
 #### iOS Device Info
 
 | Device Name | Device Identifier |
 | :-------- | :------- |
-| iPhone Air | iPhone18,4 |
+| iPhone 17 Pro Max | iPhone18,2 |
 
 ## Folder Explanations
 
